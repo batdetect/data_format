@@ -1,4 +1,4 @@
-# List of Bat - Version 1.0
+# List of Bats - Version 1.0
 
 | id  | name | rank |
 | :-- | :--- | :--- |
