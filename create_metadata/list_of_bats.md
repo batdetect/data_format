@@ -1,5 +1,4 @@
 # List of Bats - Version 1.0
-
 | id  | name | common name | rank |
 | :-- | :--- | :---------- | :--- |
 |1 | Chiroptera | [Bats](http://en.wikipedia.org/wiki/Bat) | order |
@@ -63,8 +62,8 @@
 |59 | Artibeus toltecus | [Toltec Fruit-eating Bat](http://en.wikipedia.org/wiki/Toltec_fruit-eating_bat) | species |
 |60 | Artibeus watsoni | [Thomas's Fruit-eating Bat](http://en.wikipedia.org/wiki/Thomas's_fruit-eating_bat) | species |
 |61 | Asellia | [Trident Leaf-nosed Bats](http://en.wikipedia.org/wiki/Asellia) | genus |
-|62 | Asellia arabica | [Arabian Trident Leaf-nosed Bat](None) | species |
-|63 | Asellia italosomalica | [Somali Trident Leaf-nosed Bat](None) | species |
+|62 | Asellia arabica | Arabian Trident Leaf-nosed Bat | species |
+|63 | Asellia italosomalica | Somali Trident Leaf-nosed Bat | species |
 |64 | Asellia patrizii | [Patrizi's Trident Leaf-nosed Bat](http://en.wikipedia.org/wiki/Patrizi's_trident_leaf-nosed_bat) | species |
 |65 | Asellia tridens | [Geoffroy's Trident Leaf-nosed Bat](http://en.wikipedia.org/wiki/Trident_bat) | species |
 |66 | Aselliscus | [Asian Trident Bats](http://en.wikipedia.org/wiki/Aselliscus) | genus |
@@ -83,7 +82,7 @@
 |79 | Barbastella leucomelas | [Eastern barbastelle](http://en.wikipedia.org/wiki/Asian_barbastelle) | species |
 |80 | Bauerus | [Bauerus](http://en.wikipedia.org/wiki/Van_Gelder's_bat) | genus |
 |81 | Bauerus dubiaquercus | [Van Gelder's bat](http://en.wikipedia.org/wiki/Van_Gelder's_bat) | species |
-|82 | Brachyphylla | [Brachyphylla](None) | genus |
+|82 | Brachyphylla | Brachyphylla | genus |
 |83 | Brachyphylla cavernarum | [Antillean Fruit-eating Bat](http://en.wikipedia.org/wiki/Antillean_fruit-eating_bat) | species |
 |84 | Brachyphylla nana | [Cuban Fruit-eating Bat](http://en.wikipedia.org/wiki/Cuban_fruit-eating_bat) | species |
 |85 | Cardioderma | [Cardioderma](http://en.wikipedia.org/wiki/Heart-nosed_bat) | genus |
@@ -97,7 +96,7 @@
 |93 | Carollia subrufa | [gray short-tailed bat](http://en.wikipedia.org/wiki/Gray_short-tailed_bat) | species |
 |94 | Casinycteris | [Casinycteris](http://en.wikipedia.org/wiki/Short-palated_fruit_bat) | genus |
 |95 | Casinycteris argynnis | [Short-palated fruit bat](http://en.wikipedia.org/wiki/Short-palated_fruit_bat) | species |
-|96 | Casinycteris campomaanensis | [Campo-Ma’an fruit bat](None) | species |
+|96 | Casinycteris campomaanensis | Campo-Ma’an fruit bat | species |
 |97 | Casinycteris ophiodon | [Pohle's fruit bat](http://en.wikipedia.org/wiki/Pohle's_fruit_bat) | species |
 |98 | Centronycteris | [Shaggy Bats](http://en.wikipedia.org/wiki/Centronycteris) | genus |
 |99 | Centronycteris centralis | [Thomas's Shaggy Bat](http://en.wikipedia.org/wiki/Thomas's_shaggy_bat) | species |
@@ -147,7 +146,7 @@
 |143 | Coelops robinsoni | [Malayan Tailless Leaf-nosed Bat](http://en.wikipedia.org/wiki/Malayan_tailless_leaf-nosed_bat) | species |
 |144 | Coleura | [Coleura](http://en.wikipedia.org/wiki/Coleura) | genus |
 |145 | Coleura afra | [African Sheath-tailed Bat](http://en.wikipedia.org/wiki/African_sheath-tailed_bat) | species |
-|146 | Coleura kibomalandy | [Madagascar Sheath-tailed Bat](None) | species |
+|146 | Coleura kibomalandy | Madagascar Sheath-tailed Bat | species |
 |147 | Coleura seychellensis | [Seychelles Sheath-tailed Bat](http://en.wikipedia.org/wiki/Seychelles_sheath-tailed_bat) | species |
 |148 | Cormura | [Cormura](http://en.wikipedia.org/wiki/Chestnut_sac-winged_bat) | genus |
 |149 | Cormura brevirostris | [Chestnut Sac-winged Bat](http://en.wikipedia.org/wiki/Chestnut_sac-winged_bat) | species |
@@ -185,7 +184,7 @@
 |181 | Diclidurus scutatus | [Lesser Ghost Bat](http://en.wikipedia.org/wiki/Lesser_ghost_bat) | species |
 |182 | Diphylla | [Diphylla](http://en.wikipedia.org/wiki/Hairy-legged_vampire_bat) | genus |
 |183 | Diphylla ecaudata | [Hairy-legged Vampire Bat](http://en.wikipedia.org/wiki/Hairy-legged_vampire_bat) | species |
-|184 | Dobsonia | [Bare-backed Fruit Bats](None) | genus |
+|184 | Dobsonia | Bare-backed Fruit Bats | genus |
 |185 | Dobsonia anderseni | [Andersen's Bare-backed Fruit Bat](http://en.wikipedia.org/wiki/Andersen's_naked-backed_fruit_bat) | species |
 |186 | Dobsonia beauforti | [Beaufort's Naked-backed Fruit Bat](http://en.wikipedia.org/wiki/Beaufort's_naked-backed_fruit_bat) | species |
 |187 | Dobsonia chapmani | [Negros Naked-backed Fruit Bat](http://en.wikipedia.org/wiki/Philippine_naked-backed_fruit_bat) | species |
@@ -193,7 +192,7 @@
 |189 | Dobsonia emersa | [Biak Naked-backed Fruit Bat](http://en.wikipedia.org/wiki/Biak_naked-backed_fruit_bat) | species |
 |190 | Dobsonia exoleta | [Sulawesi Naked-backed Fruit Bat](http://en.wikipedia.org/wiki/Sulawesi_naked-backed_fruit_bat) | species |
 |191 | Dobsonia inermis | [Solomons Naked-backed Fruit Bat](http://en.wikipedia.org/wiki/Solomon's_naked-backed_fruit_bat) | species |
-|192 | Dobsonia magna | [New Guinea Naked-backed Fruit Bat](None) | species |
+|192 | Dobsonia magna | New Guinea Naked-backed Fruit Bat | species |
 |193 | Dobsonia minor | [Lesser Naked-backed Fruit Bat](http://en.wikipedia.org/wiki/Lesser_naked-backed_fruit_bat) | species |
 |194 | Dobsonia moluccensis | [Moluccan Naked-backed Fruit Bat](http://en.wikipedia.org/wiki/Moluccan_naked-backed_fruit_bat) | species |
 |195 | Dobsonia pannietensis | [Panniet Naked-backed Fruit Bat](http://en.wikipedia.org/wiki/Panniet_naked-backed_fruit_bat) | species |
@@ -223,7 +222,7 @@
 |219 | Eonycteris major | [Greater Dawn Bat](http://en.wikipedia.org/wiki/Greater_nectar_bat) | species |
 |220 | Eonycteris robusta | [Philippine Dawn Bat](http://en.wikipedia.org/wiki/Philippine_dawn_bat) | species |
 |221 | Eonycteris spelaea | [Lesser Dawn Bat](http://en.wikipedia.org/wiki/Cave_nectar_bat) | species |
-|222 | Epomophorus | [Epauletted Fruit Bats](None) | genus |
+|222 | Epomophorus | Epauletted Fruit Bats | genus |
 |223 | Epomophorus angolensis | [Angolan Epauletted Fruit Bat](http://en.wikipedia.org/wiki/Angolan_epauletted_fruit_bat) | species |
 |224 | Epomophorus anselli | [Ansell's Epauletted Fruit Bat](http://en.wikipedia.org/wiki/Ansell's_epauletted_fruit_bat) | species |
 |225 | Epomophorus crypturus | [Peters's Epauletted Fruit Bat](http://en.wikipedia.org/wiki/Peters's_epauletted_fruit_bat) | species |
@@ -251,7 +250,7 @@
 |247 | Eptesicus guadeloupensis | [Guadeloupe Big Brown Bat](http://en.wikipedia.org/wiki/Guadeloupe_big_brown_bat) | species |
 |248 | Eptesicus hottentotus | [Long-tailed House Bat](http://en.wikipedia.org/wiki/Long-tailed_house_bat) | species |
 |249 | Eptesicus innoxius | [Harmless Serotine](http://en.wikipedia.org/wiki/Harmless_serotine) | species |
-|250 | Eptesicus isabellinus | [Isabelline Serotine](None) | species |
+|250 | Eptesicus isabellinus | Isabelline Serotine | species |
 |251 | Eptesicus japonensis | [Japanese Short-tailed Bat](http://en.wikipedia.org/wiki/Japanese_short-tailed_bat) | species |
 |252 | Eptesicus kobayashii | [Kobayashi's Serotine](http://en.wikipedia.org/wiki/Kobayashi's_bat) | species |
 |253 | Eptesicus malagasyensis | [Isalo Serotine](http://en.wikipedia.org/wiki/Neoromicia_malagasyensis) | species |
@@ -294,7 +293,7 @@
 |290 | Glauconycteris | [Butterfly Bats](http://en.wikipedia.org/wiki/Glauconycteris) | genus |
 |291 | Glauconycteris alboguttata | [Allen's Striped Bat](http://en.wikipedia.org/wiki/Allen's_striped_bat) | species |
 |292 | Glauconycteris argentata | [Silvered Bat](http://en.wikipedia.org/wiki/Silvered_bat) | species |
-|293 | Glauconycteris atra | [Blackish Butterfly Bat](None) | species |
+|293 | Glauconycteris atra | Blackish Butterfly Bat | species |
 |294 | Glauconycteris beatrix | [Beatrix's Bat](http://en.wikipedia.org/wiki/Beatrix's_bat) | species |
 |295 | Glauconycteris curryae | [Curry's Bat](http://en.wikipedia.org/wiki/Curry's_bat) | species |
 |296 | Glauconycteris egeria | [Bibundi Butterfly Bat](http://en.wikipedia.org/wiki/Bibundi_bat) | species |
@@ -341,19 +340,19 @@
 |337 | Hipposideros ater | [Dusky Roundleaf Bat](http://en.wikipedia.org/wiki/Dusky_leaf-nosed_bat) | species |
 |338 | Hipposideros beatus | [Benito roundleaf bat](http://en.wikipedia.org/wiki/Benito_roundleaf_bat) | species |
 |339 | Hipposideros bicolor | [bicolored roundleaf bat](http://en.wikipedia.org/wiki/Bicolored_roundleaf_bat) | species |
-|340 | Hipposideros boeadii | [Boeadi’s Roundleaf Bat](None) | species |
+|340 | Hipposideros boeadii | Boeadi’s Roundleaf Bat | species |
 |341 | Hipposideros breviceps | [short-headed roundleaf bat](http://en.wikipedia.org/wiki/Short-headed_roundleaf_bat) | species |
 |342 | Hipposideros caffer | [Sundevall's roundleaf bat](http://en.wikipedia.org/wiki/Sundevall's_roundleaf_bat) | species |
 |343 | Hipposideros calcaratus | [spurred roundleaf bat](http://en.wikipedia.org/wiki/Spurred_roundleaf_bat) | species |
 |344 | Hipposideros camerunensis | [Cameroon leaf-nosed bat](http://en.wikipedia.org/wiki/Greater_roundleaf_bat) | species |
 |345 | Hipposideros cervinus | [Fawn Roundleaf Bat](http://en.wikipedia.org/wiki/Fawn_leaf-nosed_bat) | species |
 |346 | Hipposideros cineraceus | [ashy roundleaf bat](http://en.wikipedia.org/wiki/Ashy_roundleaf_bat) | species |
-|347 | Hipposideros commersonii | [Commerson's Leaf-nosed Bat](None) | species |
+|347 | Hipposideros commersonii | Commerson's Leaf-nosed Bat | species |
 |348 | Hipposideros coronatus | [large Mindanao roundleaf bat](http://en.wikipedia.org/wiki/Large_Mindanao_roundleaf_bat) | species |
 |349 | Hipposideros corynophyllus | [Telefomin roundleaf bat](http://en.wikipedia.org/wiki/Telefomin_roundleaf_bat) | species |
 |350 | Hipposideros coxi | [Cox's roundleaf bat](http://en.wikipedia.org/wiki/Cox's_roundleaf_bat) | species |
 |351 | Hipposideros crumeniferus | [Timor roundleaf bat](http://en.wikipedia.org/wiki/Timor_roundleaf_bat) | species |
-|352 | Hipposideros cryptovalorona | [Madagascar Cryptic Leaf-nosed Bat](None) | species |
+|352 | Hipposideros cryptovalorona | Madagascar Cryptic Leaf-nosed Bat | species |
 |353 | Hipposideros curtus | [Short-tailed roundleaf bat](http://en.wikipedia.org/wiki/Short-tailed_roundleaf_bat) | species |
 |354 | Hipposideros cyclops | [Cyclops roundleaf bat](http://en.wikipedia.org/wiki/Cyclops_roundleaf_bat) | species |
 |355 | Hipposideros demissus | [Makira Leaf-nosed Bat](http://en.wikipedia.org/wiki/Makira_roundleaf_bat) | species |
@@ -373,7 +372,7 @@
 |369 | Hipposideros inexpectatus | [crested roundleaf bat](http://en.wikipedia.org/wiki/Crested_roundleaf_bat) | species |
 |370 | Hipposideros inornatus | [Arnhem Leaf-nosed Bat](http://en.wikipedia.org/wiki/Arnhem_leaf-nosed_bat) | species |
 |371 | Hipposideros jonesi | [Jones's roundleaf bat](http://en.wikipedia.org/wiki/Jones's_roundleaf_bat) | species |
-|372 | Hipposideros khaokhouayensis | [Phou Khao Khouay Leaf-nosed Bat](None) | species |
+|372 | Hipposideros khaokhouayensis | Phou Khao Khouay Leaf-nosed Bat | species |
 |373 | Hipposideros lamottei | [Lamotte's Roundleaf Bat](http://en.wikipedia.org/wiki/Lamotte's_roundleaf_bat) | species |
 |374 | Hipposideros lankadiva | [Indian roundleaf bat](http://en.wikipedia.org/wiki/Indian_roundleaf_bat) | species |
 |375 | Hipposideros larvatus | [intermediate roundleaf bat](http://en.wikipedia.org/wiki/Intermediate_roundleaf_bat) | species |
@@ -386,7 +385,7 @@
 |382 | Hipposideros megalotis | [Ethiopian large-eared roundleaf bat](http://en.wikipedia.org/wiki/Ethiopian_large-eared_roundleaf_bat) | species |
 |383 | Hipposideros muscinus | [Fly River roundleaf bat](http://en.wikipedia.org/wiki/Fly_River_roundleaf_bat) | species |
 |384 | Hipposideros nequam | [Malayan roundleaf bat](http://en.wikipedia.org/wiki/Malayan_roundleaf_bat) | species |
-|385 | Hipposideros nicobarulae | [Nicobar Roundleaf Bat](None) | species |
+|385 | Hipposideros nicobarulae | Nicobar Roundleaf Bat | species |
 |386 | Hipposideros obscurus | [Philippine forest roundleaf bat](http://en.wikipedia.org/wiki/Philippine_forest_roundleaf_bat) | species |
 |387 | Hipposideros orbiculus | [Orbiculus Leaf-nosed Bat](http://en.wikipedia.org/wiki/Orbiculus_leaf-nosed_bat) | species |
 |388 | Hipposideros papua | [Biak Roundleaf Bat](http://en.wikipedia.org/wiki/Biak_roundleaf_bat) | species |
@@ -403,7 +402,7 @@
 |399 | Hipposideros speoris | [Schneider's roundleaf bat](http://en.wikipedia.org/wiki/Schneider's_leaf-nosed_bat) | species |
 |400 | Hipposideros stenotis | [Narrow-eared Roundleaf Bat](http://en.wikipedia.org/wiki/Northern_leaf-nosed_bat) | species |
 |401 | Hipposideros sumbae | [Sumban Leaf-nosed Bat](http://en.wikipedia.org/wiki/Sumba_roundleaf_bat) | species |
-|402 | Hipposideros tephrus | [Sundevall's Roundleaf Bat](None) | species |
+|402 | Hipposideros tephrus | Sundevall's Roundleaf Bat | species |
 |403 | Hipposideros thomensis | [São Tomé Leaf-nosed Bat](http://en.wikipedia.org/wiki/São_Tomé_leaf-nosed_bat) | species |
 |404 | Hipposideros turpis | [lesser roundleaf bat](http://en.wikipedia.org/wiki/Lesser_great_leaf-nosed_bat) | species |
 |405 | Hipposideros vittatus | [Striped leaf-nosed bat](http://en.wikipedia.org/wiki/Striped_leaf-nosed_bat) | species |
@@ -433,8 +432,8 @@
 |429 | Kerivoula flora | [Flores woolly bat](http://en.wikipedia.org/wiki/Flores_woolly_bat) | species |
 |430 | Kerivoula hardwickii | [Hardwicke's woolly bat](http://en.wikipedia.org/wiki/Hardwicke's_woolly_bat) | species |
 |431 | Kerivoula intermedia | [small woolly bat](http://en.wikipedia.org/wiki/Small_woolly_bat) | species |
-|432 | Kerivoula kachinensis | [Kachin Woolly Bat](None) | species |
-|433 | Kerivoula krauensis | [Krau Woolly Bat](None) | species |
+|432 | Kerivoula kachinensis | Kachin Woolly Bat | species |
+|433 | Kerivoula krauensis | Krau Woolly Bat | species |
 |434 | Kerivoula lanosa | [Lesser woolly bat](http://en.wikipedia.org/wiki/Lesser_woolly_bat) | species |
 |435 | Kerivoula lenis | [Lenis Woolly Bat](http://en.wikipedia.org/wiki/Lenis_woolly_bat) | species |
 |436 | Kerivoula minuta | [least woolly bat](http://en.wikipedia.org/wiki/Least_woolly_bat) | species |
@@ -445,7 +444,7 @@
 |441 | Kerivoula phalaena | [Spurrell's woolly bat](http://en.wikipedia.org/wiki/Spurrell's_woolly_bat) | species |
 |442 | Kerivoula picta | [Painted Bat](http://en.wikipedia.org/wiki/Painted_bat) | species |
 |443 | Kerivoula smithii | [Smith's woolly bat](http://en.wikipedia.org/wiki/Smith's_woolly_bat) | species |
-|444 | Kerivoula titania | [Titania's Woolly Bat](None) | species |
+|444 | Kerivoula titania | Titania's Woolly Bat | species |
 |445 | Kerivoula whiteheadi | [Whitehead's woolly bat](http://en.wikipedia.org/wiki/Whitehead's_woolly_bat) | species |
 |446 | Laephotis | [African Long-eared Bats](http://en.wikipedia.org/wiki/Laephotis) | genus |
 |447 | Laephotis angolensis | [Angolan long-eared bat](http://en.wikipedia.org/wiki/Angolan_long-eared_bat) | species |
@@ -487,13 +486,13 @@
 |483 | Lionycteris spurrelli | [chestnut long-tongued bat](http://en.wikipedia.org/wiki/Chestnut_long-tongued_bat) | species |
 |484 | Lonchophylla | [Nectar Bats](http://en.wikipedia.org/wiki/Lonchophylla) | genus |
 |485 | Lonchophylla bokermanni | [Bokermann's nectar bat](http://en.wikipedia.org/wiki/Bokermann's_nectar_bat) | species |
-|486 | Lonchophylla chocoana | [Choco nectar bat](None) | species |
+|486 | Lonchophylla chocoana | Choco nectar bat | species |
 |487 | Lonchophylla concava | [Goldman's Nectar Bat](http://en.wikipedia.org/wiki/Goldman's_nectar_bat) | species |
 |488 | Lonchophylla dekeyseri | [Dekeyser's nectar bat](http://en.wikipedia.org/wiki/Dekeyser's_nectar_bat) | species |
 |489 | Lonchophylla handleyi | [Handley's nectar bat](http://en.wikipedia.org/wiki/Handley's_nectar_bat) | species |
 |490 | Lonchophylla hesperia | [western nectar bat](http://en.wikipedia.org/wiki/Western_nectar_bat) | species |
 |491 | Lonchophylla mordax | [Goldman's nectar bat](http://en.wikipedia.org/wiki/Goldman's_nectar_bat) | species |
-|492 | Lonchophylla orcesi | [Orces' Nectar bat](None) | species |
+|492 | Lonchophylla orcesi | Orces' Nectar bat | species |
 |493 | Lonchophylla robusta | [orange nectar bat](http://en.wikipedia.org/wiki/Orange_nectar_bat) | species |
 |494 | Lonchophylla thomasi | [Thomas's nectar bat](http://en.wikipedia.org/wiki/Thomas's_nectar_bat) | species |
 |495 | Lonchorhina | [Sword-nosed Bats](http://en.wikipedia.org/wiki/Lonchorhina) | genus |
@@ -507,7 +506,7 @@
 |503 | Lophostoma brasiliense | [Pygmy Round-eared Bat](http://en.wikipedia.org/wiki/Pygmy_round-eared_bat) | species |
 |504 | Lophostoma carrikeri | [Carriker's round-eared bat](http://en.wikipedia.org/wiki/Carriker's_round-eared_bat) | species |
 |505 | Lophostoma evotis | [Davis's round-eared bat](http://en.wikipedia.org/wiki/Davis's_round-eared_bat) | species |
-|506 | Lophostoma kalkoae | [Kalko's Round-eared Bat](None) | species |
+|506 | Lophostoma kalkoae | Kalko's Round-eared Bat | species |
 |507 | Lophostoma schulzi | [Schultz's round-eared bat](http://en.wikipedia.org/wiki/Schultz's_round-eared_bat) | species |
 |508 | Lophostoma silvicolum | [white-throated round-eared bat](http://en.wikipedia.org/wiki/White-throated_round-eared_bat) | species |
 |509 | Lophostoma yasuni | [Yasuni Round-eared Bat](http://en.wikipedia.org/wiki/List_of_bats_described_in_the_2000s) | species |
@@ -530,7 +529,7 @@
 |526 | Megaerops niphanae | [Ratanaworabhan's Fruit Bat](http://en.wikipedia.org/wiki/Ratanaworabhan's_fruit_bat) | species |
 |527 | Megaerops wetmorei | [White-collared Fruit Bat](http://en.wikipedia.org/wiki/White-collared_fruit_bat) | species |
 |528 | Megaloglossus | [Megaloglossus](http://en.wikipedia.org/wiki/Woermann's_bat) | genus |
-|529 | Megaloglossus azagnyi | [Western Woermann's fruit bat](None) | species |
+|529 | Megaloglossus azagnyi | Western Woermann's fruit bat | species |
 |530 | Megaloglossus woermanni | [Woermann's fruit bat](http://en.wikipedia.org/wiki/Woermann's_bat) | species |
 |531 | Melonycteris | [Melonycteris](http://en.wikipedia.org/wiki/Melonycteris) | genus |
 |532 | Melonycteris fardoulisi | [Fardoulis's Blossom Bat](http://en.wikipedia.org/wiki/Fardoulis'_blossom_bat) | species |
@@ -547,8 +546,8 @@
 |543 | Micronycteris minuta | [white-bellied big-eared bat](http://en.wikipedia.org/wiki/White-bellied_big-eared_bat) | species |
 |544 | Micronycteris sanborni | [Sanborn's big-eared bat](http://en.wikipedia.org/wiki/Sanborn's_big-eared_bat) | species |
 |545 | Micronycteris schmidtorum | [Schmidts's big-eared bat](http://en.wikipedia.org/wiki/Schmidts's_big-eared_bat) | species |
-|546 | Micronycteris yatesi | [Yates' Big-eared Bat](None) | species |
-|547 | Micropteropus | [Dwarf Epauletted Fruit Bats](None) | genus |
+|546 | Micronycteris yatesi | Yates' Big-eared Bat | species |
+|547 | Micropteropus | Dwarf Epauletted Fruit Bats | genus |
 |548 | Micropteropus intermedius | [Hayman's Dwarf Epauletted Fruit Bat](http://en.wikipedia.org/wiki/Hayman's_dwarf_epauletted_fruit_bat) | species |
 |549 | Micropteropus pusillus | [Peter's Dwarf Epauletted Fruit Bat](http://en.wikipedia.org/wiki/Peters'_dwarf_epauletted_fruit_bat) | species |
 |550 | Mimetillus | [Mimetillus](http://en.wikipedia.org/wiki/Moloney's_mimic_bat) | genus |
@@ -560,10 +559,10 @@
 |556 | Mimon koepckeae | [Koepcke's hairy-nosed bat](http://en.wikipedia.org/wiki/Koepcke's_hairy-nosed_bat) | species |
 |557 | Miniopterus | [Bent-winged Bats](http://en.wikipedia.org/wiki/Miniopterus) | genus |
 |558 | Miniopterus aelleni | [Aellen's Long-fingered Bat](http://en.wikipedia.org/wiki/Miniopterus_aelleni) | species |
-|559 | Miniopterus ambohitrensis | [Montagne d’Ambre Long-fingered Bat](None) | species |
+|559 | Miniopterus ambohitrensis | Montagne d’Ambre Long-fingered Bat | species |
 |560 | Miniopterus australis | [Little Long-fingered Bat](http://en.wikipedia.org/wiki/Little_bent-wing_bat) | species |
 |561 | Miniopterus brachytragos | [Miniopterus brachytragos](http://en.wikipedia.org/wiki/Miniopterus_brachytragos) | species |
-|562 | Miniopterus egeri | [Eger's Long-fingered Bat](None) | species |
+|562 | Miniopterus egeri | Eger's Long-fingered Bat | species |
 |563 | Miniopterus fraterculus | [Lesser Long-fingered Bat](http://en.wikipedia.org/wiki/Lesser_long-fingered_bat) | species |
 |564 | Miniopterus fuliginosus | [Eastern Bent-winged Bat](http://en.wikipedia.org/wiki/Miniopterus_fuliginosus) | species |
 |565 | Miniopterus fuscus | [Southeast Asian Long-fingered Bat](http://en.wikipedia.org/wiki/Southeast_Asian_long-fingered_bat) | species |
@@ -572,16 +571,16 @@
 |568 | Miniopterus griveaudi | [Griveaud's Long-fingered Bat](http://en.wikipedia.org/wiki/Miniopterus_griveaudi) | species |
 |569 | Miniopterus inflatus | [Greater Long-fingered Bat](http://en.wikipedia.org/wiki/Greater_long-fingered_bat) | species |
 |570 | Miniopterus macrocneme | [Small Melanesian Bent-winged Bat](http://en.wikipedia.org/wiki/Miniopterus_macrocneme) | species |
-|571 | Miniopterus maghrebensis | [Maghrebian Bent-wing Bat](None) | species |
+|571 | Miniopterus maghrebensis | Maghrebian Bent-wing Bat | species |
 |572 | Miniopterus magnater | [Western Bent-winged Bat](http://en.wikipedia.org/wiki/Western_bent-winged_bat) | species |
 |573 | Miniopterus mahafaliensis | [Mahafaly Long-fingered Bat](http://en.wikipedia.org/wiki/Miniopterus_mahafaliensis) | species |
 |574 | Miniopterus majori | [Major's Long-fingered Bat](http://en.wikipedia.org/wiki/Miniopterus_majori) | species |
 |575 | Miniopterus manavi | [Manavi Long-fingered Bat](http://en.wikipedia.org/wiki/Miniopterus_manavi) | species |
 |576 | Miniopterus medius | [Medium Bent-winged Bat](http://en.wikipedia.org/wiki/Intermediate_long-fingered_bat) | species |
 |577 | Miniopterus minor | [Least Long-fingered Bat](http://en.wikipedia.org/wiki/Least_long-fingered_bat) | species |
-|578 | Miniopterus mossambicus | [Mozambican Long-fingered Bat](None) | species |
+|578 | Miniopterus mossambicus | Mozambican Long-fingered Bat | species |
 |579 | Miniopterus natalensis | [Natal Long-fingered Bat](http://en.wikipedia.org/wiki/Natal_long-fingered_bat) | species |
-|580 | Miniopterus newtoni | [Newton's Long-fingered Bat](None) | species |
+|580 | Miniopterus newtoni | Newton's Long-fingered Bat | species |
 |581 | Miniopterus oceanensis | [Australasian Bent-winged Bat](http://en.wikipedia.org/wiki/Miniopterus_oceanensis) | species |
 |582 | Miniopterus paululus | [Philippine Long-fingered Bat](http://en.wikipedia.org/wiki/Philippine_long-fingered_bat) | species |
 |583 | Miniopterus petersoni | [Peterson's Long-fingered Bat](http://en.wikipedia.org/wiki/Peterson's_long-fingered_bat) | species |
@@ -589,9 +588,9 @@
 |585 | Miniopterus robustior | [Loyalty Bent-winged Bat](http://en.wikipedia.org/wiki/Loyalty_bent-winged_bat) | species |
 |586 | Miniopterus schreibersii | [Schreibers' Long-fingered Bat](http://en.wikipedia.org/wiki/Common_bent-wing_bat) | species |
 |587 | Miniopterus shortridgei | [Shortridge's Long-fingered Bat](http://en.wikipedia.org/wiki/Miniopterus_shortridgei) | species |
-|588 | Miniopterus sororculus | [Sororcula Long-fingered Bat](None) | species |
+|588 | Miniopterus sororculus | Sororcula Long-fingered Bat | species |
 |589 | Miniopterus tristis | [Great Bent-winged Bat](http://en.wikipedia.org/wiki/Great_bent-winged_bat) | species |
-|590 | Miniopterus villiersi | [Villiers' Long-fingered Bat](None) | species |
+|590 | Miniopterus villiersi | Villiers' Long-fingered Bat | species |
 |591 | Mirimiri | [Mirimiri](http://en.wikipedia.org/wiki/Fijian_monkey-faced_bat) | genus |
 |592 | Mirimiri acrodonta | [Fijian Monkey-faced Bat](http://en.wikipedia.org/wiki/Fijian_monkey-faced_bat) | species |
 |593 | Molossops | [Molossops](http://en.wikipedia.org/wiki/Molossops) | genus |
@@ -600,7 +599,7 @@
 |596 | Molossops neglectus | [rufous dog-faced bat](http://en.wikipedia.org/wiki/Rufous_dog-faced_bat) | species |
 |597 | Molossops temminckii | [dwarf dog-faced bat](http://en.wikipedia.org/wiki/Dwarf_dog-faced_bat) | species |
 |598 | Molossus | [Molossus](http://en.wikipedia.org/wiki/Molossus) | genus |
-|599 | Molossus alvarezi | [Alvarez's Mastiff Bat](None) | species |
+|599 | Molossus alvarezi | Alvarez's Mastiff Bat | species |
 |600 | Molossus aztecus | [Aztec Mastiff Bat](http://en.wikipedia.org/wiki/Aztec_mastiff_bat) | species |
 |601 | Molossus barnesi | [Barnes' mastiff bat](http://en.wikipedia.org/wiki/Barnes'_mastiff_bat) | species |
 |602 | Molossus coibensis | [Coiban Mastiff Bat](http://en.wikipedia.org/wiki/Coiban_mastiff_bat) | species |
@@ -609,7 +608,7 @@
 |605 | Molossus pretiosus | [Miller's mastiff bat](http://en.wikipedia.org/wiki/Miller's_mastiff_bat) | species |
 |606 | Molossus rufus | [Black Mastiff Bat](http://en.wikipedia.org/wiki/Black_mastiff_bat) | species |
 |607 | Molossus sinaloae | [Sinaloan Mastiff Bat](http://en.wikipedia.org/wiki/Sinaloan_mastiff_bat) | species |
-|608 | Monophyllus | [Antillean Long-tongued Bats](None) | genus |
+|608 | Monophyllus | Antillean Long-tongued Bats | genus |
 |609 | Monophyllus plethodon | [Insular Long-tongued Bat](http://en.wikipedia.org/wiki/Insular_single_leaf_bat) | species |
 |610 | Monophyllus redmani | [Leach's Single Leaf Bat](http://en.wikipedia.org/wiki/Leach's_single_leaf_bat) | species |
 |611 | Mormoops | [ghost-faced bats](http://en.wikipedia.org/wiki/Mormoops) | genus |
@@ -620,7 +619,7 @@
 |616 | Mormopterus beccarii | [Beccari's Mastiff Bat](http://en.wikipedia.org/wiki/Beccari's_free-tailed_bat) | species |
 |617 | Mormopterus doriae | [Sumatran mastiff bat](http://en.wikipedia.org/wiki/Sumatran_mastiff_bat) | species |
 |618 | Mormopterus eleryi | [Bristle-faced free-tailed bat](http://en.wikipedia.org/wiki/Bristle-faced_free-tailed_bat) | species |
-|619 | Mormopterus francoismoutoui | [Moutou's Free-tailed Bat](None) | species |
+|619 | Mormopterus francoismoutoui | Moutou's Free-tailed Bat | species |
 |620 | Mormopterus jugularis | [Peters's wrinkle-lipped bat](http://en.wikipedia.org/wiki/Peters's_wrinkle-lipped_bat) | species |
 |621 | Mormopterus kalinowskii | [Kalinowski's mastiff bat](http://en.wikipedia.org/wiki/Kalinowski's_mastiff_bat) | species |
 |622 | Mormopterus loriae | [Little Northern Free-tailed Bat](http://en.wikipedia.org/wiki/Loria's_mastiff_bat) | species |
@@ -634,7 +633,7 @@
 |630 | Murina | [Murina Tube-nosed Bats](http://en.wikipedia.org/wiki/Murina) | genus |
 |631 | Murina aenea | [bronze tube-nosed bat](http://en.wikipedia.org/wiki/Bronze_tube-nosed_bat) | species |
 |632 | Murina aurata | [little tube-nosed bat](http://en.wikipedia.org/wiki/Little_tube-nosed_bat) | species |
-|633 | Murina balaensis | [Bala Tube-nosed Bat](None) | species |
+|633 | Murina balaensis | Bala Tube-nosed Bat | species |
 |634 | Murina cyclotis | [round-eared tube-nosed bat](http://en.wikipedia.org/wiki/Round-eared_tube-nosed_bat) | species |
 |635 | Murina florium | [Flores Tube-nosed Bat](http://en.wikipedia.org/wiki/Flute-nosed_bat) | species |
 |636 | Murina fusca | [dusky tube-nosed bat](http://en.wikipedia.org/wiki/Dusky_tube-nosed_bat) | species |
@@ -654,7 +653,7 @@
 |650 | Myonycteris | [Collared Fruit Bats](http://en.wikipedia.org/wiki/Myonycteris) | genus |
 |651 | Myonycteris angolensis | [Angolan Collared Fruit Bat](http://en.wikipedia.org/wiki/Angolan_rousette) | species |
 |652 | Myonycteris brachycephala | [São Tomé Collared Fruit Bat](http://en.wikipedia.org/wiki/São_Tomé_collared_fruit_bat) | species |
-|653 | Myonycteris leptodon | [Sierra Leone Collared Fruit Bat](None) | species |
+|653 | Myonycteris leptodon | Sierra Leone Collared Fruit Bat | species |
 |654 | Myonycteris relicta | [East African Collared Fruit Bat](http://en.wikipedia.org/wiki/East_African_little_collared_fruit_bat) | species |
 |655 | Myonycteris torquata | [Little Collared Fruit Bat](http://en.wikipedia.org/wiki/Little_collared_fruit_bat) | species |
 |656 | Myopterus | [Myopterus](http://en.wikipedia.org/wiki/Myopterus) | genus |
@@ -692,7 +691,7 @@
 |688 | Myotis daubentonii | [Daubenton's Bat](http://en.wikipedia.org/wiki/Daubenton's_bat) | species |
 |689 | Myotis davidii | [David's Myotis](http://en.wikipedia.org/wiki/Myotis_davidii) | species |
 |690 | Myotis dieteri | [Kock's mouse-eared bat](http://en.wikipedia.org/wiki/Kock's_mouse-eared_bat) | species |
-|691 | Myotis dinellii | [Myotis dinellii](None) | species |
+|691 | Myotis dinellii | Myotis dinellii | species |
 |692 | Myotis dominicensis | [Dominican myotis](http://en.wikipedia.org/wiki/Dominican_myotis) | species |
 |693 | Myotis elegans | [elegant myotis](http://en.wikipedia.org/wiki/Elegant_myotis) | species |
 |694 | Myotis emarginatus | [Geoffroy's Bat](http://en.wikipedia.org/wiki/Geoffroy's_bat) | species |
@@ -715,7 +714,7 @@
 |711 | Myotis keaysi | [hairy-legged myotis](http://en.wikipedia.org/wiki/Hairy-legged_myotis) | species |
 |712 | Myotis keenii | [Keen's Myotis](http://en.wikipedia.org/wiki/Keen's_myotis) | species |
 |713 | Myotis laniger | [Chinese Water Myotis](http://en.wikipedia.org/wiki/Myotis_laniger) | species |
-|714 | Myotis lavali | [LaVal's Myotis](None) | species |
+|714 | Myotis lavali | LaVal's Myotis | species |
 |715 | Myotis leibii | [Eastern Small-footed Myotis](http://en.wikipedia.org/wiki/Eastern_small-footed_myotis) | species |
 |716 | Myotis levis | [yellowish myotis](http://en.wikipedia.org/wiki/Yellowish_myotis) | species |
 |717 | Myotis longipes | [Kashmir cave bat](http://en.wikipedia.org/wiki/Kashmir_cave_bat) | species |
@@ -749,7 +748,7 @@
 |745 | Myotis riparius | [riparian myotis](http://en.wikipedia.org/wiki/Riparian_myotis) | species |
 |746 | Myotis rosseti | [thick-thumbed myotis](http://en.wikipedia.org/wiki/Thick-thumbed_myotis) | species |
 |747 | Myotis ruber | [red myotis](http://en.wikipedia.org/wiki/Red_myotis) | species |
-|748 | Myotis rufopictus | [Orange-fingered Myotis](None) | species |
+|748 | Myotis rufopictus | Orange-fingered Myotis | species |
 |749 | Myotis schaubi | [Schaub's myotis](http://en.wikipedia.org/wiki/Schaub's_myotis) | species |
 |750 | Myotis scotti | [Scott's mouse-eared bat](http://en.wikipedia.org/wiki/Scott's_mouse-eared_bat) | species |
 |751 | Myotis septentrionalis | [Northern Myotis](http://en.wikipedia.org/wiki/Northern_long-eared_bat_(myotis)) | species |
@@ -777,7 +776,7 @@
 |773 | Natalus | [Natalus](http://en.wikipedia.org/wiki/Natalus) | genus |
 |774 | Natalus jamaicensis | [Jamaican Greater Funnel-eared Bat](http://en.wikipedia.org/wiki/Jamaican_greater_funnel-eared_bat) | species |
 |775 | Natalus lanatus | [Natalus lanatus](http://en.wikipedia.org/wiki/Mexican_greater_funnel-eared_bat) | species |
-|776 | Natalus macrourus | [Brazilian Funnel-eared Bat](None) | species |
+|776 | Natalus macrourus | Brazilian Funnel-eared Bat | species |
 |777 | Natalus major | [Hispaniolan Greater Funnel-eared Bat](http://en.wikipedia.org/wiki/Hispaniolan_greater_funnel-eared_bat) | species |
 |778 | Natalus mexicanus | [Mexican Greater Funnel-eared Bat](http://en.wikipedia.org/wiki/Mexican_greater_funnel-eared_bat) | species |
 |779 | Natalus primus | [Cuban Greater Funnel-eared Bat](http://en.wikipedia.org/wiki/Cuban_greater_funnel-eared_bat) | species |
@@ -851,21 +850,21 @@
 |847 | Nyctophilus | [Australian Long-eared Bats](http://en.wikipedia.org/wiki/Nyctophilus) | genus |
 |848 | Nyctophilus arnhemensis | [Northern Long-eared Bat](http://en.wikipedia.org/wiki/Northern_long-eared_bat_(Nyctophilus)) | species |
 |849 | Nyctophilus bifax | [Eastern Long-eared Bat](http://en.wikipedia.org/wiki/Eastern_long-eared_bat) | species |
-|850 | Nyctophilus corbeni | [Corben's Long-eared Bat](None) | species |
+|850 | Nyctophilus corbeni | Corben's Long-eared Bat | species |
 |851 | Nyctophilus geoffroyi | [Lesser Long-eared Bat](http://en.wikipedia.org/wiki/Lesser_long-eared_bat) | species |
 |852 | Nyctophilus gouldi | [Gould's Long-eared Bat](http://en.wikipedia.org/wiki/Gould's_long-eared_bat) | species |
 |853 | Nyctophilus heran | [Sunda Long-eared Bat](http://en.wikipedia.org/wiki/Sunda_long-eared_bat) | species |
 |854 | Nyctophilus howensis | [Lord Howe Long-eared Bat](http://en.wikipedia.org/wiki/Lord_Howe_long-eared_bat) | species |
-|855 | Nyctophilus major | [Western Long-eared Bat](None) | species |
+|855 | Nyctophilus major | Western Long-eared Bat | species |
 |856 | Nyctophilus microdon | [Small-toothed Long-eared Bat](http://en.wikipedia.org/wiki/Small-toothed_long-eared_bat) | species |
 |857 | Nyctophilus microtis | [New Guinea Long-eared Bat](http://en.wikipedia.org/wiki/New_Guinea_long-eared_bat) | species |
 |858 | Nyctophilus nebulosus | [New Caledonia Long-eared Bat](http://en.wikipedia.org/wiki/New_Caledonian_long-eared_bat) | species |
-|859 | Nyctophilus sherrini | [Tasmanian Long-eared Bat](None) | species |
-|860 | Nyctophilus shirleyae | [Mt. Missim Long-eared Bat](None) | species |
+|859 | Nyctophilus sherrini | Tasmanian Long-eared Bat | species |
+|860 | Nyctophilus shirleyae | Mt. Missim Long-eared Bat | species |
 |861 | Nyctophilus walkeri | [Pygmy Long-eared Bat](http://en.wikipedia.org/wiki/Pygmy_long-eared_bat) | species |
 |862 | Otomops | [Otomops](http://en.wikipedia.org/wiki/Otomops) | genus |
 |863 | Otomops formosus | [Java mastiff bat](http://en.wikipedia.org/wiki/Javan_mastiff_bat) | species |
-|864 | Otomops harrisoni | [Harrison's Large-eared Giant Mastiff Bat](None) | species |
+|864 | Otomops harrisoni | Harrison's Large-eared Giant Mastiff Bat | species |
 |865 | Otomops johnstonei | [Johnstone's Giant Mastiff Bat](http://en.wikipedia.org/wiki/Johnstone's_mastiff_bat) | species |
 |866 | Otomops madagascariensis | [Madagascar free-tailed bat](http://en.wikipedia.org/wiki/Madagascar_free-tailed_bat) | species |
 |867 | Otomops martiensseni | [Large-eared Giant Mastiff Bat](http://en.wikipedia.org/wiki/Large-eared_free-tailed_bat) | species |
@@ -887,9 +886,9 @@
 |883 | Paratriaenops auritus | [Grandidier's Trident Bat](http://en.wikipedia.org/wiki/Grandidier's_trident_bat) | species |
 |884 | Paratriaenops furculus | [Trouessart's Trident Bat](http://en.wikipedia.org/wiki/Paratriaenops_furculus) | species |
 |885 | Paratriaenops pauliani | [Paulian's Trident Bat](http://en.wikipedia.org/wiki/Paratriaenops_pauliani) | species |
-|886 | Paremballonura | [Paremballonura](None) | genus |
+|886 | Paremballonura | Paremballonura | genus |
 |887 | Paremballonura atrata | [Peters' sheath-tailed bat](http://en.wikipedia.org/wiki/Peters's_sheath-tailed_bat) | species |
-|888 | Paremballonura tiavato | [Western sheath-tailed bat](None) | species |
+|888 | Paremballonura tiavato | Western sheath-tailed bat | species |
 |889 | Penthetor | [Penthetor](http://en.wikipedia.org/wiki/Dusky_fruit_bat) | genus |
 |890 | Penthetor lucasi | [Lucas's Short-nosed Fruit Bat](http://en.wikipedia.org/wiki/Dusky_fruit_bat) | species |
 |891 | Perimyotis | [Perimyotis](http://en.wikipedia.org/wiki/Tricolored_bat) | genus |
@@ -903,14 +902,14 @@
 |899 | Pharotis imogene | [New Guinea big-eared bat](http://en.wikipedia.org/wiki/New_Guinea_big-eared_bat) | species |
 |900 | Philetor | [Philetor](http://en.wikipedia.org/wiki/Philetor) | genus |
 |901 | Philetor brachypterus | [Rohu's bat](http://en.wikipedia.org/wiki/Rohu's_bat) | species |
-|902 | Phoniscus | [Trumpet-eared Bats](None) | genus |
+|902 | Phoniscus | Trumpet-eared Bats | genus |
 |903 | Phoniscus aerosa | [dubious trumpet-eared bat](http://en.wikipedia.org/wiki/Dubious_trumpet-eared_bat) | species |
 |904 | Phoniscus atrox | [groove-toothed bat](http://en.wikipedia.org/wiki/Groove-toothed_bat) | species |
 |905 | Phoniscus jagorii | [Peters's trumpet-eared bat](http://en.wikipedia.org/wiki/Peters's_trumpet-eared_bat) | species |
 |906 | Phoniscus papuensis | [Golden-tipped Bat](http://en.wikipedia.org/wiki/Golden-tipped_bat) | species |
 |907 | Phylloderma | [Phylloderma](http://en.wikipedia.org/wiki/Pale-faced_bat) | genus |
 |908 | Phylloderma stenops | [pale-faced bat](http://en.wikipedia.org/wiki/Pale-faced_bat) | species |
-|909 | Phyllonycteris | [Phyllonycteris](None) | genus |
+|909 | Phyllonycteris | Phyllonycteris | genus |
 |910 | Phyllonycteris aphylla | [Jamaican flower bat](http://en.wikipedia.org/wiki/Jamaican_flower_bat) | species |
 |911 | Phyllonycteris poeyi | [Cuban Flower Bat](http://en.wikipedia.org/wiki/Cuban_flower_bat) | species |
 |912 | Phyllops | [Phyllops](http://en.wikipedia.org/wiki/Cuban_fig-eating_bat) | genus |
@@ -924,13 +923,13 @@
 |920 | Pipistrellus abramus | [Japanese Pipistrelle](http://en.wikipedia.org/wiki/Japanese_house_bat) | species |
 |921 | Pipistrellus adamsi | [Forest Pipistrelle](http://en.wikipedia.org/wiki/Forest_pipistrelle) | species |
 |922 | Pipistrellus aero | [Mount Gargues pipistrelle](http://en.wikipedia.org/wiki/Mount_Gargues_pipistrelle) | species |
-|923 | Pipistrellus alaschanicus | [Alashanian Pipistrelle](None) | species |
+|923 | Pipistrellus alaschanicus | Alashanian Pipistrelle | species |
 |924 | Pipistrellus anchietae | [Anchieta's pipistrelle](http://en.wikipedia.org/wiki/Anchieta's_pipistrelle) | species |
 |925 | Pipistrellus angulatus | [New Guinea Pipistrelle](http://en.wikipedia.org/wiki/Angulate_pipistrelle) | species |
 |926 | Pipistrellus anthonyi | [Anthony's pipistrelle](http://en.wikipedia.org/wiki/Hypsugo_anthonyi) | species |
 |927 | Pipistrellus arabicus | [Arabian pipistrelle](http://en.wikipedia.org/wiki/Arabian_pipistrelle) | species |
 |928 | Pipistrellus ariel | [Desert pipistrelle](http://en.wikipedia.org/wiki/Desert_pipistrelle) | species |
-|929 | Pipistrellus bemainty | [Dark Madagascar Pipistrelle](None) | species |
+|929 | Pipistrellus bemainty | Dark Madagascar Pipistrelle | species |
 |930 | Pipistrellus brunneus | [Dark-brown serotine](http://en.wikipedia.org/wiki/Dark-brown_serotine) | species |
 |931 | Pipistrellus cadornae | [Cadorna's pipistrelle](http://en.wikipedia.org/wiki/Cadorna's_pipistrelle) | species |
 |932 | Pipistrellus capensis | [Cape serotine](http://en.wikipedia.org/wiki/Cape_serotine) | species |
@@ -940,19 +939,19 @@
 |936 | Pipistrellus crassulus | [Broad-headed pipistrelle](http://en.wikipedia.org/wiki/Broad-headed_pipistrelle) | species |
 |937 | Pipistrellus eisentrauti | [Eisentraut's pipistrelle](http://en.wikipedia.org/wiki/Eisentraut's_pipistrelle) | species |
 |938 | Pipistrellus endoi | [Endo's pipistrelle](http://en.wikipedia.org/wiki/Endo's_pipistrelle) | species |
-|939 | Pipistrellus grandidieri | [Grandidier's pipistrelle](None) | species |
+|939 | Pipistrellus grandidieri | Grandidier's pipistrelle | species |
 |940 | Pipistrellus guineensis | [Tiny serotine](http://en.wikipedia.org/wiki/Tiny_serotine) | species |
-|941 | Pipistrellus hanaki | [Hanak's dwarf bat](None) | species |
+|941 | Pipistrellus hanaki | Hanak's dwarf bat | species |
 |942 | Pipistrellus helios | [Heller's pipistrelle](http://en.wikipedia.org/wiki/Heller's_pipistrelle) | species |
 |943 | Pipistrellus hesperidus | [Dusky pipistrelle](http://en.wikipedia.org/wiki/Dusky_pipistrelle) | species |
 |944 | Pipistrellus imbricatus | [brown pipistrelle](http://en.wikipedia.org/wiki/Brown_pipistrelle) | species |
 |945 | Pipistrellus inexspectatus | [Aellen's pipistrelle](http://en.wikipedia.org/wiki/Aellen's_pipistrelle) | species |
-|946 | Pipistrellus isabella | [Isabelline White-winged Serotine](None) | species |
+|946 | Pipistrellus isabella | Isabelline White-winged Serotine | species |
 |947 | Pipistrellus javanicus | [Javan pipistrelle](http://en.wikipedia.org/wiki/Java_pipistrelle) | species |
 |948 | Pipistrellus joffrei | [Joffre's pipistrelle](http://en.wikipedia.org/wiki/Joffre's_pipistrelle) | species |
 |949 | Pipistrellus kitcheneri | [red-brown pipistrelle](http://en.wikipedia.org/wiki/Red-brown_pipistrelle) | species |
 |950 | Pipistrellus kuhlii | [Kuhl's pipistrelle](http://en.wikipedia.org/wiki/Kuhl's_pipistrelle) | species |
-|951 | Pipistrellus lanzai | [Lanza's pipistrelle](None) | species |
+|951 | Pipistrellus lanzai | Lanza's pipistrelle | species |
 |952 | Pipistrellus lophurus | [Burma pipistrelle](http://en.wikipedia.org/wiki/Burma_pipistrelle) | species |
 |953 | Pipistrellus macrotis | [big-eared pipistrelle](http://en.wikipedia.org/wiki/Big-eared_pipistrelle) | species |
 |954 | Pipistrellus maderensis | [Madeira pipistrelle](http://en.wikipedia.org/wiki/Madeira_pipistrelle) | species |
@@ -970,13 +969,13 @@
 |966 | Pipistrellus pygmaeus | [Pygmy Pipistrelle](http://en.wikipedia.org/wiki/Soprano_pipistrelle) | species |
 |967 | Pipistrellus raceyi | [Racey's pipistrelle](http://en.wikipedia.org/wiki/Pipistrellus_raceyi) | species |
 |968 | Pipistrellus rendalli | [Rendall's serotine](http://en.wikipedia.org/wiki/Rendall's_serotine) | species |
-|969 | Pipistrellus robertsi | [Roberts' pipistrelle](None) | species |
-|970 | Pipistrellus roseveari | [Rosevear's serotine](None) | species |
+|969 | Pipistrellus robertsi | Roberts' pipistrelle | species |
+|970 | Pipistrellus roseveari | Rosevear's serotine | species |
 |971 | Pipistrellus rueppellii | [Rüppell's pipistrelle](http://en.wikipedia.org/wiki/Rüppell's_pipistrelle) | species |
 |972 | Pipistrellus rusticus | [Rusty pipistrelle](http://en.wikipedia.org/wiki/Rusty_pipistrelle) | species |
 |973 | Pipistrellus savii | [Savi's Pipistrelle](http://en.wikipedia.org/wiki/Savi's_pipistrelle) | species |
 |974 | Pipistrellus somalicus | [Somali serotine](http://en.wikipedia.org/wiki/Somali_serotine) | species |
-|975 | Pipistrellus stanleyi | [Stanley's Serotine](None) | species |
+|975 | Pipistrellus stanleyi | Stanley's Serotine | species |
 |976 | Pipistrellus stenopterus | [narrow-winged pipistrelle](http://en.wikipedia.org/wiki/Narrow-winged_pipistrelle) | species |
 |977 | Pipistrellus sturdeei | [Sturdee's pipistrelle](http://en.wikipedia.org/wiki/Sturdee's_pipistrelle) | species |
 |978 | Pipistrellus tenuipinnis | [White-winged serotine](http://en.wikipedia.org/wiki/White-winged_serotine) | species |
@@ -990,7 +989,7 @@
 |986 | Platymops | [Platymops](http://en.wikipedia.org/wiki/Peters's_flat-headed_bat) | genus |
 |987 | Platymops setiger | [Peters's flat-headed bat](http://en.wikipedia.org/wiki/Peters's_flat-headed_bat) | species |
 |988 | Platyrrhinus | [Platyrrhinus](http://en.wikipedia.org/wiki/Platyrrhinus) | genus |
-|989 | Platyrrhinus albericoi | [Alberico's broad-nosed bat](None) | species |
+|989 | Platyrrhinus albericoi | Alberico's broad-nosed bat | species |
 |990 | Platyrrhinus aurarius | [El Dorado Broad-nosed Bat](http://en.wikipedia.org/wiki/Eldorado_broad-nosed_bat) | species |
 |991 | Platyrrhinus brachycephalus | [Short-headed Broad-nosed Bat](http://en.wikipedia.org/wiki/Short-headed_broad-nosed_bat) | species |
 |992 | Platyrrhinus chocoensis | [Chocó Broad-nosed Bat](http://en.wikipedia.org/wiki/Choco_broad-nosed_bat) | species |
@@ -1000,9 +999,9 @@
 |996 | Platyrrhinus infuscus | [Buffy Broad-nosed Bat](http://en.wikipedia.org/wiki/Buffy_broad-nosed_bat) | species |
 |997 | Platyrrhinus ismaeli | [Ismael's broad-nosed bat](http://en.wikipedia.org/wiki/Platyrrhinus_ismaeli) | species |
 |998 | Platyrrhinus lineatus | [White-lined Broad-nosed Bat](http://en.wikipedia.org/wiki/White-lined_broad-nosed_bat) | species |
-|999 | Platyrrhinus masu | [Quechua broad-nosed bat](None) | species |
+|999 | Platyrrhinus masu | Quechua broad-nosed bat | species |
 |1000 | Platyrrhinus matapalensis | [Matapalo broad-nosed bat](http://en.wikipedia.org/wiki/Matapalo_broad-nosed_bat) | species |
-|1001 | Platyrrhinus nigellus | [Geoffroy's rayed bat](None) | species |
+|1001 | Platyrrhinus nigellus | Geoffroy's rayed bat | species |
 |1002 | Platyrrhinus recifinus | [Recife Broad-nosed Bat](http://en.wikipedia.org/wiki/Recife_broad-nosed_bat) | species |
 |1003 | Platyrrhinus umbratus | [Shadowy Broad-nosed Bat](http://en.wikipedia.org/wiki/Shadowy_broad-nosed_bat) | species |
 |1004 | Platyrrhinus vittatus | [Greater Broad-nosed Bat](http://en.wikipedia.org/wiki/Greater_broad-nosed_bat) | species |
@@ -1011,10 +1010,10 @@
 |1007 | Plecotus austriacus | [Gray big-eared bat](http://en.wikipedia.org/wiki/Grey_long-eared_bat) | species |
 |1008 | Plecotus balensis | [Ethiopian Big-eared Bat](http://en.wikipedia.org/wiki/Ethiopian_big-eared_bat) | species |
 |1009 | Plecotus christii | [Christie's big-eared bat](http://en.wikipedia.org/wiki/Christi's_big-eared_bat) | species |
-|1010 | Plecotus gaisleri | [Gaisler's long-eared bat](None) | species |
+|1010 | Plecotus gaisleri | Gaisler's long-eared bat | species |
 |1011 | Plecotus kolombatovici | [Kolombatovic's long-eared bat](http://en.wikipedia.org/wiki/Kolombatovic's_long-eared_bat) | species |
 |1012 | Plecotus macrobullaris | [Mountain Long-eared Bat](http://en.wikipedia.org/wiki/Alpine_long-eared_bat) | species |
-|1013 | Plecotus ognevi | [Ognev's Long-eared Bat](None) | species |
+|1013 | Plecotus ognevi | Ognev's Long-eared Bat | species |
 |1014 | Plecotus sacrimontis | [Japanese Long-eared Bat](http://en.wikipedia.org/wiki/Japanese_long-eared_bat) | species |
 |1015 | Plecotus sardus | [Sardinian Long-eared Bat](http://en.wikipedia.org/wiki/Sardinian_long-eared_bat) | species |
 |1016 | Plecotus taivanus | [Taiwan big-eared bat](http://en.wikipedia.org/wiki/Taiwan_big-eared_bat) | species |
@@ -1041,7 +1040,7 @@
 |1037 | Pteronotus parnellii | [Parnell's moustached bat](http://en.wikipedia.org/wiki/Parnell's_mustached_bat) | species |
 |1038 | Pteronotus personatus | [Wagner's moustached bat](http://en.wikipedia.org/wiki/Wagner's_mustached_bat) | species |
 |1039 | Pteronotus quadridens | [Sooty Moustached Bat](http://en.wikipedia.org/wiki/Sooty_mustached_bat) | species |
-|1040 | Pteronus | [Pteronus](None) | genus |
+|1040 | Pteronus | Pteronus | genus |
 |1041 | Pteropus | [Flying Foxes](http://en.wikipedia.org/wiki/Pteropus) | genus |
 |1042 | Pteropus admiralitatum | [Admiralty Flying Fox](http://en.wikipedia.org/wiki/Admiralty_flying_fox) | species |
 |1043 | Pteropus aldabrensis | [Aldabra flying fox](http://en.wikipedia.org/wiki/Aldabra_flying_fox) | species |
@@ -1129,7 +1128,7 @@
 |1125 | Rhinolophus cohenae | [Cohen's horseshoe bat](http://en.wikipedia.org/wiki/Cohen's_horseshoe_bat) | species |
 |1126 | Rhinolophus convexus | [Convex Horseshoe Bat](http://en.wikipedia.org/wiki/Convex_horseshoe_bat) | species |
 |1127 | Rhinolophus creaghi | [Creagh's horseshoe bat](http://en.wikipedia.org/wiki/Creagh's_horseshoe_bat) | species |
-|1128 | Rhinolophus damarensis | [Damara horseshoe bat](None) | species |
+|1128 | Rhinolophus damarensis | Damara horseshoe bat | species |
 |1129 | Rhinolophus darlingi | [Darling's horseshoe bat](http://en.wikipedia.org/wiki/Darling's_horseshoe_bat) | species |
 |1130 | Rhinolophus deckenii | [Decken's horseshoe bat](http://en.wikipedia.org/wiki/Decken's_horseshoe_bat) | species |
 |1131 | Rhinolophus denti | [Dent's horseshoe bat](http://en.wikipedia.org/wiki/Dent's_horseshoe_bat) | species |
@@ -1139,20 +1138,20 @@
 |1135 | Rhinolophus ferrumequinum | [Greater Horseshoe Bat](http://en.wikipedia.org/wiki/Greater_horseshoe_bat) | species |
 |1136 | Rhinolophus formosae | [Formosan Woolly Horseshoe Bat](http://en.wikipedia.org/wiki/Formosan_woolly_horseshoe_bat) | species |
 |1137 | Rhinolophus fumigatus | [Rüppell's horseshoe bat](http://en.wikipedia.org/wiki/Rüppell's_horseshoe_bat) | species |
-|1138 | Rhinolophus geoffroyi | [Geoffroy's horseshoe bat](None) | species |
+|1138 | Rhinolophus geoffroyi | Geoffroy's horseshoe bat | species |
 |1139 | Rhinolophus guineensis | [Guinean horseshoe bat](http://en.wikipedia.org/wiki/Guinean_horseshoe_bat) | species |
 |1140 | Rhinolophus hildebrandtii | [Hildebrandt's horseshoe bat](http://en.wikipedia.org/wiki/Hildebrandt's_horseshoe_bat) | species |
 |1141 | Rhinolophus hilli | [Hill's horseshoe bat](http://en.wikipedia.org/wiki/Rhinolophus_hilli) | species |
 |1142 | Rhinolophus hillorum | [Upland horseshoe bat](http://en.wikipedia.org/wiki/Rhinolophus_hillorum) | species |
 |1143 | Rhinolophus hipposideros | [Lesser Horseshoe Bat](http://en.wikipedia.org/wiki/Lesser_horseshoe_bat) | species |
-|1144 | Rhinolophus horaceki | [Horáček's horseshoe bat](None) | species |
+|1144 | Rhinolophus horaceki | Horáček's horseshoe bat | species |
 |1145 | Rhinolophus inops | [Philippine forest horseshoe bat](http://en.wikipedia.org/wiki/Philippine_forest_horseshoe_bat) | species |
-|1146 | Rhinolophus kahuzi | [Kahuzi horseshoe bat](None) | species |
+|1146 | Rhinolophus kahuzi | Kahuzi horseshoe bat | species |
 |1147 | Rhinolophus keyensis | [insular horseshoe bat](http://en.wikipedia.org/wiki/Insular_horseshoe_bat) | species |
 |1148 | Rhinolophus landeri | [Lander's horseshoe bat](http://en.wikipedia.org/wiki/Lander's_horseshoe_bat) | species |
 |1149 | Rhinolophus lepidus | [Blyth's horseshoe bat](http://en.wikipedia.org/wiki/Blyth's_horseshoe_bat) | species |
 |1150 | Rhinolophus luctus | [Woolly Horseshoe Bat](http://en.wikipedia.org/wiki/Woolly_horseshoe_bat) | species |
-|1151 | Rhinolophus mabuensis | [Mount Mabu horseshoe bat](None) | species |
+|1151 | Rhinolophus mabuensis | Mount Mabu horseshoe bat | species |
 |1152 | Rhinolophus maclaudi | [Maclaud's Horseshoe Bat](http://en.wikipedia.org/wiki/Maclaud's_horseshoe_bat) | species |
 |1153 | Rhinolophus macrotis | [big-eared horseshoe bat](http://en.wikipedia.org/wiki/Big-eared_horseshoe_bat) | species |
 |1154 | Rhinolophus madurensis | [Madura Horseshoe Bat](http://en.wikipedia.org/wiki/Madura_horseshoe_bat) | species |
@@ -1163,9 +1162,9 @@
 |1159 | Rhinolophus mehelyi | [Mehely's horseshoe bat](http://en.wikipedia.org/wiki/Mehely's_horseshoe_bat) | species |
 |1160 | Rhinolophus mitratus | [mitred horseshoe bat](http://en.wikipedia.org/wiki/Mitred_horseshoe_bat) | species |
 |1161 | Rhinolophus montanus | [Timorese Horseshoe Bat](http://en.wikipedia.org/wiki/Timorese_horseshoe_bat) | species |
-|1162 | Rhinolophus mossambicus | [Mozambican horseshoe bat](None) | species |
+|1162 | Rhinolophus mossambicus | Mozambican horseshoe bat | species |
 |1163 | Rhinolophus nereis | [neriad horseshoe bat](http://en.wikipedia.org/wiki/Neriad_horseshoe_bat) | species |
-|1164 | Rhinolophus nippon | [Japanese greater horseshoe bat](None) | species |
+|1164 | Rhinolophus nippon | Japanese greater horseshoe bat | species |
 |1165 | Rhinolophus osgoodi | [Osgood's horseshoe bat](http://en.wikipedia.org/wiki/Osgood's_horseshoe_bat) | species |
 |1166 | Rhinolophus paradoxolophus | [Bourret's horseshoe bat](http://en.wikipedia.org/wiki/Bourret's_horseshoe_bat) | species |
 |1167 | Rhinolophus pearsonii | [Pearson's Horseshoe Bat](http://en.wikipedia.org/wiki/Pearson's_horseshoe_bat) | species |
@@ -1184,7 +1183,7 @@
 |1180 | Rhinolophus silvestris | [Forest Horseshoe Bat](http://en.wikipedia.org/wiki/Forest_horseshoe_bat) | species |
 |1181 | Rhinolophus simulator | [Bushveld horseshoe bat](http://en.wikipedia.org/wiki/Bushveld_horseshoe_bat) | species |
 |1182 | Rhinolophus sinicus | [Chinese Horseshoe Bat](http://en.wikipedia.org/wiki/Chinese_rufous_horseshoe_bat) | species |
-|1183 | Rhinolophus smithersi | [Smithers's Horseshoe Bat](None) | species |
+|1183 | Rhinolophus smithersi | Smithers's Horseshoe Bat | species |
 |1184 | Rhinolophus stheno | [lesser brown horseshoe bat](http://en.wikipedia.org/wiki/Lesser_brown_horseshoe_bat) | species |
 |1185 | Rhinolophus subbadius | [little Nepalese horseshoe bat](http://en.wikipedia.org/wiki/Little_Nepalese_horseshoe_bat) | species |
 |1186 | Rhinolophus subrufus | [small rufous horseshoe bat](http://en.wikipedia.org/wiki/Small_rufous_horseshoe_bat) | species |
@@ -1192,7 +1191,7 @@
 |1188 | Rhinolophus thomasi | [Thomas's horseshoe bat](http://en.wikipedia.org/wiki/Thomas's_horseshoe_bat) | species |
 |1189 | Rhinolophus trifoliatus | [Trefoil Horseshoe Bat](http://en.wikipedia.org/wiki/Trefoil_horseshoe_bat) | species |
 |1190 | Rhinolophus virgo | [yellow-faced horseshoe bat](http://en.wikipedia.org/wiki/Yellow-faced_horseshoe_bat) | species |
-|1191 | Rhinolophus willardi | [Willard's horseshoe bat](None) | species |
+|1191 | Rhinolophus willardi | Willard's horseshoe bat | species |
 |1192 | Rhinolophus yunanensis | [Dobson's horseshoe bat](http://en.wikipedia.org/wiki/Dobson's_horseshoe_bat) | species |
 |1193 | Rhinolophus ziama | [Ziama horseshoe bat](http://en.wikipedia.org/wiki/Ziama_horseshoe_bat) | species |
 |1194 | Rhinonicteris | [Rhinonicteris](http://en.wikipedia.org/wiki/Orange_leaf-nosed_bat) | genus |
@@ -1202,8 +1201,8 @@
 |1198 | Rhinophylla fischerae | [Fischer's little fruit bat](http://en.wikipedia.org/wiki/Fischer's_little_fruit_bat) | species |
 |1199 | Rhinophylla pumilio | [dwarf little fruit bat](http://en.wikipedia.org/wiki/Dwarf_little_fruit_bat) | species |
 |1200 | Rhinopoma | [Mouse-tailed Bats](http://en.wikipedia.org/wiki/Mouse-tailed_bat) | genus |
-|1201 | Rhinopoma cystops | [Egyptian Mouse-tailed Bat](None) | species |
-|1202 | Rhinopoma hadramauticum | [Yemeni Mouse-tailed Bat](None) | species |
+|1201 | Rhinopoma cystops | Egyptian Mouse-tailed Bat | species |
+|1202 | Rhinopoma hadramauticum | Yemeni Mouse-tailed Bat | species |
 |1203 | Rhinopoma hardwickii | [Lesser Mouse-tailed Bat](http://en.wikipedia.org/wiki/Lesser_mouse-tailed_bat) | species |
 |1204 | Rhinopoma macinnesi | [Macinnes's Mouse-tailed Bat](http://en.wikipedia.org/wiki/Macinnes's_mouse-tailed_bat) | species |
 |1205 | Rhinopoma microphyllum | [Greater Mouse-tailed Bat](http://en.wikipedia.org/wiki/Greater_mouse-tailed_bat) | species |
@@ -1253,12 +1252,12 @@
 |1249 | Scotoecus pallidus | [Desert Yellow Bat](http://en.wikipedia.org/wiki/Desert_yellow_bat) | species |
 |1250 | Scotomanes | [Scotomanes](http://en.wikipedia.org/wiki/Harlequin_bat) | genus |
 |1251 | Scotomanes ornatus | [Harlequin Bat](http://en.wikipedia.org/wiki/Harlequin_bat) | species |
-|1252 | Scotonycteris | [Scotonycteris](None) | genus |
-|1253 | Scotonycteris bergmansi | [Bergmans' fruit bat](None) | species |
-|1254 | Scotonycteris occidentalis | [Hayman's tear-drop fruit bat](None) | species |
+|1252 | Scotonycteris | Scotonycteris | genus |
+|1253 | Scotonycteris bergmansi | Bergmans' fruit bat | species |
+|1254 | Scotonycteris occidentalis | Hayman's tear-drop fruit bat | species |
 |1255 | Scotonycteris zenkeri | [Zenker's fruit bat](http://en.wikipedia.org/wiki/Zenker's_fruit_bat) | species |
-|1256 | Scotophilus | [Yellow House Bats](None) | genus |
-|1257 | Scotophilus alvenslebeni | [Alvensleben's House Bat](None) | species |
+|1256 | Scotophilus | Yellow House Bats | genus |
+|1257 | Scotophilus alvenslebeni | Alvensleben's House Bat | species |
 |1258 | Scotophilus borbonicus | [Réunion House Bat](http://en.wikipedia.org/wiki/Lesser_yellow_bat) | species |
 |1259 | Scotophilus celebensis | [Sulawesi Yellow Bat](http://en.wikipedia.org/wiki/Sulawesi_yellow_bat) | species |
 |1260 | Scotophilus collinus | [Sody's Yellow House Bat](http://en.wikipedia.org/wiki/Sody's_yellow_house_bat) | species |
@@ -1266,12 +1265,12 @@
 |1262 | Scotophilus heathii | [Greater Asiatic Yellow House Bat](http://en.wikipedia.org/wiki/Greater_Asiatic_yellow_bat) | species |
 |1263 | Scotophilus kuhlii | [Lesser Asiatic Yellow Bat](http://en.wikipedia.org/wiki/Lesser_Asiatic_yellow_bat) | species |
 |1264 | Scotophilus leucogaster | [White-bellied House Bat](http://en.wikipedia.org/wiki/White-bellied_yellow_bat) | species |
-|1265 | Scotophilus marovaza | [Marovaza House Bat](None) | species |
+|1265 | Scotophilus marovaza | Marovaza House Bat | species |
 |1266 | Scotophilus nigrita | [Giant House Bat](http://en.wikipedia.org/wiki/Schreber's_yellow_bat) | species |
 |1267 | Scotophilus nucella | [Robbin's House Bat](http://en.wikipedia.org/wiki/Robbins's_yellow_bat) | species |
 |1268 | Scotophilus nux | [Nut-colored House Bat](http://en.wikipedia.org/wiki/Nut-colored_yellow_bat) | species |
 |1269 | Scotophilus robustus | [Robust House Bat](http://en.wikipedia.org/wiki/Robust_yellow_bat) | species |
-|1270 | Scotophilus tandrefana | [Western Yellow Bat](None) | species |
+|1270 | Scotophilus tandrefana | Western Yellow Bat | species |
 |1271 | Scotophilus viridis | [Greenish House Bat](http://en.wikipedia.org/wiki/Greenish_yellow_bat) | species |
 |1272 | Scotorepens | [Scotorepens](http://en.wikipedia.org/wiki/Scotorepens) | genus |
 |1273 | Scotorepens balstoni | [Western Broad-nosed Bat](http://en.wikipedia.org/wiki/Western_broad-nosed_bat) | species |
@@ -1286,14 +1285,14 @@
 |1282 | Sphaeronycteris toxophyllum | [visored bat](http://en.wikipedia.org/wiki/Visored_bat) | species |
 |1283 | Stenoderma | [Stenoderma](http://en.wikipedia.org/wiki/Red_fruit_bat) | genus |
 |1284 | Stenoderma rufum | [red fig-eating bat](http://en.wikipedia.org/wiki/Red_fruit_bat) | species |
-|1285 | Stenonycteris | [Stenonycteris](None) | genus |
+|1285 | Stenonycteris | Stenonycteris | genus |
 |1286 | Stenonycteris lanosus | [Long-haired Rousette](http://en.wikipedia.org/wiki/Long-haired_rousette) | species |
 |1287 | Sturnira | [Yellow-shouldered Bats](http://en.wikipedia.org/wiki/Sturnira) | genus |
 |1288 | Sturnira aratathomasi | [Aratathomas's Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Aratathomas's_yellow-shouldered_bat) | species |
 |1289 | Sturnira bidens | [Bidentate Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Bidentate_yellow-shouldered_bat) | species |
 |1290 | Sturnira bogotensis | [Bogotá Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Bogotá_yellow-shouldered_bat) | species |
 |1291 | Sturnira erythromos | [Hairy Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Hairy_yellow-shouldered_bat) | species |
-|1292 | Sturnira hondurensis | [Sturnira hondurensis](None) | species |
+|1292 | Sturnira hondurensis | Sturnira hondurensis | species |
 |1293 | Sturnira lilium | [Little Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Little_yellow-shouldered_bat) | species |
 |1294 | Sturnira ludovici | [Highland Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Highland_yellow-shouldered_bat) | species |
 |1295 | Sturnira luisi | [Luis's Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Louis's_yellow-shouldered_bat) | species |
@@ -1305,7 +1304,7 @@
 |1301 | Sturnira sorianoi | [Sturnira sorianoi](http://en.wikipedia.org/wiki/Soriano's_yellow-shouldered_bat) | species |
 |1302 | Sturnira thomasi | [Thomas's Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Thomas's_yellow-shouldered_bat) | species |
 |1303 | Sturnira tildae | [Tilda Yellow-shouldered Bat](http://en.wikipedia.org/wiki/Tilda's_yellow-shouldered_bat) | species |
-|1304 | Styloctenium | [Stripe-faced Fruit Bats](None) | genus |
+|1304 | Styloctenium | Stripe-faced Fruit Bats | genus |
 |1305 | Styloctenium mindorensis | [Mindoro Stripe-faced Fruit Bat](http://en.wikipedia.org/wiki/Mindoro_stripe-faced_fruit_bat) | species |
 |1306 | Styloctenium wallacei | [Wallace's Stripe-faced Fruit Bat](http://en.wikipedia.org/wiki/Sulawesi_stripe-faced_fruit_bat) | species |
 |1307 | Syconycteris | [Blossom Bats](http://en.wikipedia.org/wiki/Syconycteris) | genus |
@@ -1316,14 +1315,14 @@
 |1312 | Tadarida aegyptiaca | [Egyptian Free-tailed Bat](http://en.wikipedia.org/wiki/Egyptian_free-tailed_bat) | species |
 |1313 | Tadarida aloysiisabaudiae | [Duke of Abruzzi's Free-tailed Bat](http://en.wikipedia.org/wiki/Duke_of_Abruzzi's_free-tailed_bat) | species |
 |1314 | Tadarida ansorgei | [Ansorge's Free-tailed Bat](http://en.wikipedia.org/wiki/Ansorge's_free-tailed_bat) | species |
-|1315 | Tadarida atsinanana | [Madagascar Free-tailed Bat](None) | species |
+|1315 | Tadarida atsinanana | Madagascar Free-tailed Bat | species |
 |1316 | Tadarida australis | [White-striped Free-tailed Bat](http://en.wikipedia.org/wiki/White-striped_free-tailed_bat) | species |
-|1317 | Tadarida bakarii | [Bakari's Free-tailed Bat](None) | species |
+|1317 | Tadarida bakarii | Bakari's Free-tailed Bat | species |
 |1318 | Tadarida bemmeleni | [Gland-tailed Free-tailed Bat](http://en.wikipedia.org/wiki/Gland-tailed_free-tailed_bat) | species |
 |1319 | Tadarida bivittata | [Spotted Free-tailed Bat](http://en.wikipedia.org/wiki/Spotted_free-tailed_bat) | species |
 |1320 | Tadarida brachyptera | [Sierra Leone Free-tailed Bat](http://en.wikipedia.org/wiki/Sierra_Leone_free-tailed_bat) | species |
 |1321 | Tadarida brasiliensis | [Mexican Free-tailed Bat](http://en.wikipedia.org/wiki/Mexican_free-tailed_bat) | species |
-|1322 | Tadarida bregullae | [Fijian Free-tailed Bat](None) | species |
+|1322 | Tadarida bregullae | Fijian Free-tailed Bat | species |
 |1323 | Tadarida chapini | [Chapin's Free-tailed Bat](http://en.wikipedia.org/wiki/Chapin's_free-tailed_bat) | species |
 |1324 | Tadarida condylura | [Angolan Free-tailed Bat](http://en.wikipedia.org/wiki/Angolan_free-tailed_bat) | species |
 |1325 | Tadarida congica | [Medje Free-tailed Bat](http://en.wikipedia.org/wiki/Medje_free-tailed_bat) | species |
@@ -1332,15 +1331,15 @@
 |1328 | Tadarida gallagheri | [Gallagher's Free-tailed Bat](http://en.wikipedia.org/wiki/Gallagher's_free-tailed_bat) | species |
 |1329 | Tadarida insignis | [East Asian Free-tailed Bat](http://en.wikipedia.org/wiki/East_Asian_free-tailed_bat) | species |
 |1330 | Tadarida jobensis | [Northern Mastiff Bat](http://en.wikipedia.org/wiki/Northern_freetail_bat) | species |
-|1331 | Tadarida jobimena | [Black and Red Free-tailed Bat](None) | species |
-|1332 | Tadarida johorensis | [Northern Free-tailed Bat](None) | species |
+|1331 | Tadarida jobimena | Black and Red Free-tailed Bat | species |
+|1332 | Tadarida johorensis | Northern Free-tailed Bat | species |
 |1333 | Tadarida kuboriensis | [New Guinea Free-tailed Bat](http://en.wikipedia.org/wiki/New_Guinea_free-tailed_bat) | species |
 |1334 | Tadarida latouchei | [La Touche's Free-tailed Bat](http://en.wikipedia.org/wiki/La_Touche's_free-tailed_bat) | species |
 |1335 | Tadarida leucostigma | [Malagasy White-bellied Free-tailed Bat](http://en.wikipedia.org/wiki/Malagasy_white-bellied_free-tailed_bat) | species |
 |1336 | Tadarida lobata | [Kenyan Big-eared Free-tailed Bat](http://en.wikipedia.org/wiki/Kenyan_big-eared_free-tailed_bat) | species |
 |1337 | Tadarida major | [Lappet-eared Free-tailed Bat](http://en.wikipedia.org/wiki/Lappet-eared_free-tailed_bat) | species |
 |1338 | Tadarida midas | [Midas Free-tailed Bat](http://en.wikipedia.org/wiki/Midas_free-tailed_bat) | species |
-|1339 | Tadarida mops | [Malayan Free-tailed Bat](None) | species |
+|1339 | Tadarida mops | Malayan Free-tailed Bat | species |
 |1340 | Tadarida nanula | [Dwarf Free-tailed Bat](http://en.wikipedia.org/wiki/Dwarf_free-tailed_bat) | species |
 |1341 | Tadarida niangarae | [Niangara Free-tailed Bat](http://en.wikipedia.org/wiki/Niangara_free-tailed_bat) | species |
 |1342 | Tadarida nigeriae | [Nigerian Free-tailed Bat](http://en.wikipedia.org/wiki/Nigerian_free-tailed_bat) | species |
@@ -1349,8 +1348,8 @@
 |1345 | Tadarida plicata | [Wrinkle-lipped Bat](http://en.wikipedia.org/wiki/Tadarida_plicata) | species |
 |1346 | Tadarida pumila | [Little Free-tailed Bat](http://en.wikipedia.org/wiki/Little_free-tailed_bat) | species |
 |1347 | Tadarida russata | [Russet Free-tailed Bat](http://en.wikipedia.org/wiki/Russet_free-tailed_bat) | species |
-|1348 | Tadarida sarasinorum | [Sulawesi Free-tailed Bat](None) | species |
-|1349 | Tadarida solomonis | [Solomons Free-tailed Bat](None) | species |
+|1348 | Tadarida sarasinorum | Sulawesi Free-tailed Bat | species |
+|1349 | Tadarida solomonis | Solomons Free-tailed Bat | species |
 |1350 | Tadarida spurrelli | [Spurrell's Free-tailed Bat](http://en.wikipedia.org/wiki/Spurrell's_free-tailed_bat) | species |
 |1351 | Tadarida teniotis | [European Free-tailed Bat](http://en.wikipedia.org/wiki/European_free-tailed_bat) | species |
 |1352 | Tadarida thersites | [Railer Free-tailed Bat](http://en.wikipedia.org/wiki/Railer_bat) | species |
@@ -1375,7 +1374,7 @@
 |1371 | Thoopterus | [Thoopterus](http://en.wikipedia.org/wiki/Swift_fruit_bat) | genus |
 |1372 | Thoopterus nigrescens | [Swift Fruit Bat](http://en.wikipedia.org/wiki/Swift_fruit_bat) | species |
 |1373 | Thyroptera | [Thyroptera](http://en.wikipedia.org/wiki/Thyropteridae) | genus |
-|1374 | Thyroptera devivoi | [De Vivo's Disk-winged Bat](None) | species |
+|1374 | Thyroptera devivoi | De Vivo's Disk-winged Bat | species |
 |1375 | Thyroptera discifera | [Peter's Disk-winged Bat](http://en.wikipedia.org/wiki/Peter's_disk-winged_bat) | species |
 |1376 | Thyroptera lavali | [Laval's Disk-winged Bat](http://en.wikipedia.org/wiki/LaVal's_disk-winged_bat) | species |
 |1377 | Thyroptera tricolor | [Spix's Disk-winged Bat](http://en.wikipedia.org/wiki/Spix's_disk-winged_bat) | species |
@@ -1389,7 +1388,7 @@
 |1385 | Triaenops | [Triaenops](http://en.wikipedia.org/wiki/Triaenops) | genus |
 |1386 | Triaenops afer | [African Trident Bat](http://en.wikipedia.org/wiki/Rufous_trident_bat) | species |
 |1387 | Triaenops menamena | [Rufous Trident Bat](http://en.wikipedia.org/wiki/Triaenops_menamena) | species |
-|1388 | Triaenops parvus | [Yemeni Trident Bat](None) | species |
+|1388 | Triaenops parvus | Yemeni Trident Bat | species |
 |1389 | Triaenops persicus | [Persian Trident Bat](http://en.wikipedia.org/wiki/Rufous_trident_bat) | species |
 |1390 | Trinycteris | [Trinycteris](http://en.wikipedia.org/wiki/Niceforo's_big-eared_bat) | genus |
 |1391 | Trinycteris nicefori | [Niceforo's Big-eared Bat](http://en.wikipedia.org/wiki/Niceforo's_big-eared_bat) | species |
@@ -1426,4 +1425,3 @@
 |1422 | Vespertilio sinensis | [Asian Particolored Bat](http://en.wikipedia.org/wiki/Asian_particolored_bat) | species |
 |1423 | Xeronycteris | [Xeronycteris](http://en.wikipedia.org/wiki/Vieira's_long-tongued_bat) | genus |
 |1424 | Xeronycteris vieirai | [Vieira's Long-tongued Bat](http://en.wikipedia.org/wiki/Vieira's_long-tongued_bat) | species |
-
