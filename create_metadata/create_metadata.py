@@ -1,4 +1,7 @@
-# uses the inaturalist public api to get the list of bats (species and genera)
+"""
+Uses the iNaturalist public api to compile a list of bats (species and genera)
+"""
+
 import urllib2
 import json
 import time

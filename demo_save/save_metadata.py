@@ -25,14 +25,14 @@ print(str(df.shape[0]) + ' audio files listed.')
 audio_files = []
 for index, row in df.iterrows():
     aud = {}
-    aud['id'] = int(index)+1
+    aud['file_id'] = str(int(index)+1)
     aud['file_name'] = row['file_name']
     aud['sampling_rate'] = row['sampling_rate']
     aud['time_expansion_factor'] = int(row['time_expansion_factor'])
+    aud['duration'] = row['duration']
     date_str = '-'.join([str(row['year']), str(row['month']).zfill(2), str(row['day']).zfill(2)]) + \
          ' ' + ':'.join([str(row['hour']).zfill(2), str(row['minute']).zfill(2), str(row['second']).zfill(2)])
     aud['date_recorded'] = date_str
-    aud['duration'] = row['duration']
     aud['lat'] = row['lat']
     aud['long'] = row['long']
     aud['license'] = int(row['license'])
@@ -48,4 +48,4 @@ for index, row in df.iterrows():
 # save the data to a json file
 print('Saving output as: ' + ip_file[:-3] + 'json')
 with open(ip_file[:-3] + 'json', 'w') as da:
-    json.dump({'audio_files': audio_files}, da, indent=2)
+    json.dump({'audio_files': audio_files}, da, indent=2, sort_keys=True)

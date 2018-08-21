@@ -1,3 +1,7 @@
+"""
+This script prints the list of bats along with associated urls.
+"""
+
 import sys
 import json
 reload(sys)
@@ -5,7 +9,6 @@ sys.setdefaultencoding('utf8')
 
 with open('bat_metadata.json') as da:
     data = json.load(da)
-
 
 taxa = data['taxa']
 
